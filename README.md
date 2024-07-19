@@ -6,8 +6,8 @@
 ---
 ## Kubernetes Simple Architecture Build and monitoring
 
+### `CHATGPT 4o Mini` : [K8S ARCHITECTURE (Streamlit, nginx, mongodb)](k8s_simple_mini.md)
 ### `CLAUDE SONNET 3.5` : [K8S ARCHITECTURE (Streamlit, nginx, mongodb)](k8s_simple_sonnet.md)
-
 ### `CHATGPT 4o` : [K8S ARCHITECTURE (Streamlit, nginx, mongodb)](k8s_simple_gpt.md)
 
 ---
