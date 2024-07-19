@@ -3,6 +3,9 @@
 ## Kubernetes Python CheatSheet
 
 ### `K8S PYTHON MONITORING` : [K8S Python](k8s_monitoring.md)
+`kubectl` vs `API Calls`
+
+
 ---
 ## Kubernetes Simple Architecture Build and monitoring
 
