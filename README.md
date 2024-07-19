@@ -5,6 +5,7 @@
 ### `K8S PYTHON MONITORING` : [K8S Python](k8s_monitoring.md)
 `kubectl` vs `API Calls`
 
+### `K8S PYTHON API METHODS` : [K8S API](k8s_methods.md)
 
 ---
 ## Kubernetes Simple Architecture Build and monitoring
