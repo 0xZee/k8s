@@ -2,7 +2,7 @@
 ---
 ## Kubernetes Simple Architecture Build and monitoring
 
-### `K8S PYTHON MONITORING` : [K8S Python])](k8s_monitoring.md)
+### `K8S PYTHON MONITORING` : [K8S Python](k8s_monitoring.md)
 ---
 ## Kubernetes Simple Architecture Build and monitoring
 
